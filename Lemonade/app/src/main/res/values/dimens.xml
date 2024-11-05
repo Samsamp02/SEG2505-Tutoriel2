@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="cornerRadius">40dp</dimen>
+    <dimen name="buttonPadding">24dp</dimen>
+    <dimen name="paddingVertical">32dp</dimen>
+    <dimen name="imageWidth">128dp</dimen>
+    <dimen name="imageHeight">160dp</dimen>
+
+</resources>
